@@ -328,12 +328,15 @@ code, pre {
     }
 
     .showcase-text {
+        justify-self: center;
+        max-width: 70%;
         text-align: center;
         margin-top: 40px;
         animation: slideInFromTop 1s ease-in;
     }
 
     .showcase-form {
+        max-width: 70%;
         justify-self: center;
         margin: auto;
         animation: slideInFromBottom 1s ease-in;
